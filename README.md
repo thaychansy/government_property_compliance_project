@@ -5,6 +5,9 @@ This project provides interactive data visualizations to analyze and monitor com
 
 **Note**: This project uses a **synthetic, fake dataset** generated for demonstration purposes only. No proprietary or sensitive information was used in the creation of this project.
 
+![image](https://github.com/user-attachments/assets/d77d3b70-a286-4d2f-8c33-6ecadc909dfd)
+
+
 ---
 
 ## **Key Features**  
