@@ -88,4 +88,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 For any questions or suggestions, please reach out:  
 - **Name**: Thay Chansy
 - **Email**: thay.chansy@gmail.com.com  
-- **GitHub**: [Your GitHub Profile](https://github.com/thaychansyh)
+- **GitHub**: [Thay Chansy's GitHub Profile](https://github.com/thaychansyh)
