@@ -53,7 +53,7 @@ Explore the interactive Power BI dashboard here: [Government Property Compliance
 ---
 
 ## **Screenshots**  
-![Compliance Score Trend](link-to-screenshot)  
+![Compliance Score Trend](![image](https://github.com/user-attachments/assets/818b6585-8ccf-4cfa-a61e-334a3b8309e1)  
 ![Contractor Performance Heatmap](link-to-screenshot)
 
 ---
