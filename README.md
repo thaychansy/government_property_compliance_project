@@ -62,10 +62,6 @@ Explore the interactive Power BI dashboard here: [Government Property Compliance
 ![image](https://github.com/user-attachments/assets/c5dcb086-0309-4e08-ac5e-05238e9a42b3)
 
 
-
-
-5. Contractor Performance Heatmap
-
 ---
 
 ## **Contributing**  
