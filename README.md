@@ -42,8 +42,7 @@ This project provides interactive data visualizations to analyze and monitor com
 Key dashboards and charts include:  
 1. **Compliance Score Over Time**: Line chart showing trends.  
 2. **Contractor Heatmap**: Compare metrics like `Audit Issues` and `Lost Assets`.  
-3. **Lost vs. Damaged Assets**: Stacked bar chart per contractor.  
-4. **Audit Compliance Overview**: Pie chart for compliant/non-compliant status.
+3. **Damage vs. Loss Assets**: Stacked bar chart per contractor.  
 
 ---
 
@@ -52,9 +51,20 @@ Explore the interactive Power BI dashboard here: [Government Property Compliance
 
 ---
 
-## **Screenshots**  
-![Compliance Score Trend](![image](https://github.com/user-attachments/assets/818b6585-8ccf-4cfa-a61e-334a3b8309e1)  
-![Contractor Performance Heatmap](link-to-screenshot)
+## **Sample Screenshots**  
+1. Compliance Score Trend
+![image](https://github.com/user-attachments/assets/9f441044-8b90-4273-8be3-7537d85076eb)
+
+2. Audit Issues Over Time
+![image](https://github.com/user-attachments/assets/fcd2edb9-859b-4143-adae-224eb2248197)
+
+3. Damage vs. Loss Assets
+![image](https://github.com/user-attachments/assets/c5dcb086-0309-4e08-ac5e-05238e9a42b3)
+
+
+
+
+5. Contractor Performance Heatmap
 
 ---
 
