@@ -5,6 +5,11 @@ This project provides interactive data visualizations to analyze and monitor com
 
 **Note**: This project uses a **synthetic, fake dataset** generated for demonstration purposes only. No proprietary or sensitive information was used in the creation of this project.
 
+---
+
+## **Live Dashboard**  
+Explore the interactive Power BI dashboard here: [Government Property Compliance Dashboard](https://govtpropertycompliance.powerappsportals.com/)
+
 ![image](https://github.com/user-attachments/assets/d77d3b70-a286-4d2f-8c33-6ecadc909dfd)
 
 
@@ -47,10 +52,7 @@ Key dashboards and charts include:
 2. **Contractor Heatmap**: Compare metrics like `Audit Issues` and `Lost Assets`.  
 3. **Damage vs. Loss Assets**: Stacked bar chart per contractor.  
 
----
 
-## **Live Dashboard**  
-Explore the interactive Power BI dashboard here: [Government Property Compliance Dashboard](https://govtpropertycompliance.powerappsportals.com/)
 
 ---
 
