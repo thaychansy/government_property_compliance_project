@@ -12,6 +12,40 @@ Explore the interactive Power BI dashboard here: [Government Property Compliance
 
 ![image](https://github.com/user-attachments/assets/d77d3b70-a286-4d2f-8c33-6ecadc909dfd)
 
+---
+## **Explanation of Metrics**
+Audit_Issues:
+
+Represents the average number of audit issues identified for each contractor.
+Lower values are better, as fewer issues indicate stronger compliance and property management practices.
+Lost_Assets:
+
+Represents the average number of assets lost by each contractor.
+High values (e.g., Contractor_1 with 325 lost assets) highlight inefficiencies in inventory management.
+Compliance_Score:
+
+Measures the overall compliance performance of the contractor, typically on a scale up to 100.
+Higher values are better, indicating strong adherence to government property management guidelines.
+
+---
+
+## **Key Insights**
+Contractor_1:
+
+Highest Lost Assets (325), which stands out in red, indicating significant inventory mismanagement.
+Despite the high lost assets, the Compliance Score remains very high (99.93), suggesting that the audit issues might not heavily penalize their overall compliance.
+Contractor_10:
+
+High Lost Assets (252) and a relatively high number of Audit Issues (7.19).
+Still maintains a strong Compliance Score of 99.91, though performance issues are visible.
+Contractor_2:
+
+Lowest Lost Assets (89) and moderate Audit Issues (6.81).
+Compliance score of 99.73, which is lower compared to others but still strong.
+Contractors 4-9:
+
+Generally perform better with fewer Lost Assets and fewer Audit Issues.
+Their Compliance Scores remain consistently high, which reflects stable and efficient property management practices.
 
 ---
 
