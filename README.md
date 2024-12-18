@@ -34,17 +34,15 @@ Contractor_1:
 
 Highest Lost Assets (325), which stands out in red, indicating significant inventory mismanagement.
 Despite the high lost assets, the Compliance Score remains very high (99.93), suggesting that the audit issues might not heavily penalize their overall compliance.
-Contractor_10:
 
-High Lost Assets (252) and a relatively high number of Audit Issues (7.19).
+Contractor_10: High Lost Assets (252) and a relatively high number of Audit Issues (7.19).
 Still maintains a strong Compliance Score of 99.91, though performance issues are visible.
-Contractor_2:
 
-Lowest Lost Assets (89) and moderate Audit Issues (6.81).
+Contractor_2: Lowest Lost Assets (89) and moderate Audit Issues (6.81).
 Compliance score of 99.73, which is lower compared to others but still strong.
-Contractors 4-9:
 
-Generally perform better with fewer Lost Assets and fewer Audit Issues.
+Contractors 4-9: Generally perform better with fewer Lost Assets and fewer Audit Issues.
+
 Their Compliance Scores remain consistently high, which reflects stable and efficient property management practices.
 
 ---
